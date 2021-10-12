@@ -7,7 +7,7 @@ const jhersonhuacho = {
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
-         css: "Bootstrap", "Material Design"]
+         css: ["Bootstrap", "Material Design"]
       },
       backEnd: {
          js: ["Node", "Express"],
