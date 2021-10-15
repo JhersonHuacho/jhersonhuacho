@@ -16,8 +16,7 @@ const jhersonhuacho = {
       },
       databases: ["SQLServer"],
       mobile: []
-   },
-   currentOccupation: ["open for job opportunities"]
+   }
 };
 ```
 
