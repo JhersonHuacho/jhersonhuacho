@@ -1,24 +1,8 @@
-### Hi, I'm Jherson Huacho 👋👨‍💻💻
+### Hi
 
-```js
-const jhersonhuacho = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, CSharp],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Bootstrap", "Material Design"]
-      },
-      backEnd: {
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: []
-      },
-      databases: ["SQLServer"],
-      mobile: []
-   }
-};
-```
+My name is Francisco Jherson Huacho
+
+I'm a Developer Web from Perú.
 
 You can find me 🌎:
 - [Twitter](https://twitter.com/JhersonHuacho)
