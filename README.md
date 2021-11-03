@@ -2,7 +2,7 @@
 
 My name is Francisco Jherson Huacho
 
-I'm a Developer Web from Perú.
+I'm a Web Developer from Perú.
 
 You can find me 🌎:
 - [Twitter](https://twitter.com/JhersonHuacho)
